@@ -23,13 +23,13 @@ Now that you have the token, open the src/config.coffee and change the token to 
 
 ## step 4
 open a terminal and use:
-``` $ npm coffee ```
+``` $ npm run coffee ```
 this will compile the the cooffee scrip archives from src/ into js in build/ .
 *This command will keep listening to the archives and compile them when a change happens*
 
 ## step 5
 run the bot using:
-``` $ npm start ```
+``` $ npm run start ```
 in your terminal should appers **_"Ready to go"_**
 
 ## step 6
