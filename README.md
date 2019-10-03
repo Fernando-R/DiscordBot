@@ -8,7 +8,7 @@ npm: 6.10
 
 ## step 1
 ```
-git clone ....
+git clone https://github.com/Fernando-R/DiscordBot---Node.git
 cd Discordbot
 ```
 ## step 2
