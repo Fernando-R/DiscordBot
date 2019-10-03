@@ -1,0 +1,7 @@
+use this command root of aplication to compile the the cooffee scrip archives from src/ 
+into js in build/ .This command will keep listening to the archaves
+and compile when a change happens
+
+coffee -o dist/ -cw src/
+
+

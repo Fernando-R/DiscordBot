@@ -1,0 +1,17 @@
+{
+  "name": "devbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "coffee": "coffee -o dist/ -cw src/",
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.0"
+  },
+  "devDependencies": {}
+}
