@@ -11,8 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "coffeescript": "^2.4.1",
     "discord.js": "^11.5.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "coffeescript": "^2.4.1"
+  }
 }
