@@ -9,7 +9,7 @@ npm: 6.10
 
 ## step 1
 
-```
+```bash
 git clone https://github.com/Fernando-R/DiscordBot---Node.git
 cd Discordbot
 ```
@@ -17,7 +17,10 @@ cd Discordbot
 ## step 2
 
 this discord bot has the discord.js library as dependency and coffeescript as development dependency, you'll need to install them using:
-`$ npm install`
+
+```bash
+$ npm install
+```
 
 ## step 3
 
@@ -29,14 +32,22 @@ Now that you have the token, open the src/config.coffee and change the token to 
 ## step 4
 
 open a terminal and use:
-`$ npm run coffee`
+
+```bash
+$ npm run coffee
+```
+
 this will compile the the cooffee scrip archives from src/ into js in build/ .
 _This command will keep listening to the archives and compile them when a change happens_
 
 ## step 5
 
 run the bot using:
-`$ npm start`
+
+```bash
+$ npm start
+```
+
 in your terminal should appers **_"Ready to go"_**
 
 ## step 6
